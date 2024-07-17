@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TinyWebServerBymyself"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\jsoncpp\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TinyWebServerBymyself">
+				<Option output="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/TinyWebServerBymyself" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="../"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/mysql"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 TinyWebServerBymyself"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TinyWebServerBymyself/fast">
+				<Option output="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/TinyWebServerBymyself" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="../"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/mysql"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 TinyWebServerBymyself/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/CGImysql/sql_connection_pool.cpp">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/CGImysql/sql_connection_pool.h">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/config.cpp">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/config.h">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/http/http_conn.cpp">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/http/http_conn.h">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/log/log.cpp">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/log/log.h">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/main.cpp">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/timer/lst_timer.cpp">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/timer/lst_timer.h">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/webserver.cpp">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/webserver.h">
+			<Option target="TinyWebServerBymyself"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/../../../../../../usr/lib/x86_64-linux-gnu/cmake/jsoncpp/jsoncppConfig-none.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\jsoncpp\"/>
+		</Unit>
+		<Unit filename="/home/zxz/Proj/C_C++/WebServer/TinyWebServerBymyself/../../../../../../usr/lib/x86_64-linux-gnu/cmake/jsoncpp/jsoncppConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\jsoncpp\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

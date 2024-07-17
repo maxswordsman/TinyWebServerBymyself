@@ -1,0 +1,6 @@
+{
+  "db_port": 3306,
+  "userName": "zxz",
+  "password": "123456",
+  "dbName": "serverdb"
+}
